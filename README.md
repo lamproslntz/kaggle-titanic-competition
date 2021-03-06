@@ -6,7 +6,8 @@
 The current models in this project are:
 * Logistic Regression,
 * Decision Trees,
-* Random Forest.
+* Random Forest,
+* Linear SVC.
 
 ### Technologies
 The technologies used that are worth mentioning, are:
