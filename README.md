@@ -12,6 +12,5 @@ The current models in this project are:
 ### Technologies
 The technologies used that are worth mentioning, are:
 * Python,
-* Matplotlib,
 * Pandas,
 * scikit-learn.
